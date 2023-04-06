@@ -1,5 +1,4 @@
-Hi, i'm mamdouh .
-I'm a computer science student who is enthusiast about learning.
-I'm currently learning the basics of AI.
-Twitter: MamdouhCS
-E-mail: MamdouhKhalaf76@gmail.com
+<h1 align="center">Hi 👋, I'm Mamdouh</h1>
+
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFDFDF&center=true&width=435&lines=Software+Developer;AI+enthusiast" alt="Typing SVG" /></a>
