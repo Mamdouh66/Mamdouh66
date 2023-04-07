@@ -31,9 +31,30 @@
 <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
 </a>
 <a href ="https://www.w3schools.com/python/"  target="_blank" rel="noreferrer"> 
-<img src ="https://github.com/devicons/devicon/tree/master/icons/python" alt="python" width="40" height="40" />
+<img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </a>
-<a href ="https://www.google.com/search?q=react&oq=react&aqs=chrome..69i57j69i61.1178j0j4&sourceid=chrome&ie=UTF-8"  target="_blank" rel="noreferrer"> 
-<img src ="https://github.com/devicons/devicon/tree/master/icons/react" alt="react" width="40" height="40" />
+<a href ="https://react.dev/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+</a>
+<a href ="https://tailwindcss.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40" />
+</a>
+<a href ="https://www.mysql.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+</a>
+<a href ="https://www.java.com/en/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+</a>
+<a href ="https://www.javascript.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+</a>
+<a href ="https://git-scm.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+</a>
+<a href ="https://www.djangoproject.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+</a>
+<a href ="https://www.djangoproject.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
 </a>
 </p>
