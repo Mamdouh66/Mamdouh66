@@ -37,7 +37,7 @@
 <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </a>
 <a href ="https://tailwindcss.com/"  target="_blank" rel="noreferrer"> 
-<img src ="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40" />
+<img src ="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />
 </a>
 <a href ="https://www.mysql.com/"  target="_blank" rel="noreferrer"> 
 <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
