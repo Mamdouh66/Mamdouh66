@@ -54,7 +54,4 @@
 <a href ="https://www.djangoproject.com/"  target="_blank" rel="noreferrer"> 
 <img src ="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
 </a>
-<a href ="https://www.djangoproject.com/"  target="_blank" rel="noreferrer"> 
-<img src ="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-</a>
 </p>
