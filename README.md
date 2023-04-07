@@ -27,4 +27,13 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a> 
+<a href ="https://www.w3schools.com/css/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
+</a>
+<a href ="https://www.w3schools.com/python/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/tree/master/icons/python" alt="python" width="40" height="40" />
+</a>
+<a href ="https://www.google.com/search?q=react&oq=react&aqs=chrome..69i57j69i61.1178j0j4&sourceid=chrome&ie=UTF-8"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/tree/master/icons/react" alt="react" width="40" height="40" />
+</a>
 </p>
