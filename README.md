@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mamdouh66)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mamdouh66)" alt="stats"/>
 </p>
