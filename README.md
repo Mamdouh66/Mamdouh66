@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFDFDF&center=true&width=435&lines=Software+Developer;AI+enthusiast" alt="Typing SVG" /></a>
 <p/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAamdouh66&label=Profile%20views&color=0e75b6&style=flat" alt="Mamdouh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MAamdouh66&label=Profile%20views&color=0e75b6&style=flat" alt="Mamdouh" /> </p>
 
 
 - 🔭 I’m currently working on **The Hidden Truth**
@@ -16,14 +16,14 @@
 
 - 📫 How to reach me **MamdouhKhalaf76@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/MamdouhCS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mamdouh" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/mamdouh-aldhafeeri-631a93241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mamdouh" height="30" width="40" /></a>
  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a> 
