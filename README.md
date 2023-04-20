@@ -51,6 +51,12 @@
 <a href ="https://git-scm.com/"  target="_blank" rel="noreferrer"> 
 <img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
 </a>
+ <a href ="https://nodejs.org/en"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
+</a>
+ <a href ="https://www.w3schools.com/html/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="NodeJS" width="40" height="40" />
+</a>
 </p>
 
 <p align="left">
