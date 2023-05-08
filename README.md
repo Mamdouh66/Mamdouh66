@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAamdouh66&label=Profile%20views&color=0e75b6&style=flat" alt="Mamdouh" /> </p>
 
 
-- 👨‍💻 I’m currently working on **The Hidden Truth**
+- 👨‍💻 I’m currently working on **SOCriptia**
 
 - 🧠 I’m currently learning **React & Node.JS**
 
