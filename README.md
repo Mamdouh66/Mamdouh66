@@ -57,6 +57,18 @@
  <a href ="https://www.w3schools.com/html/"  target="_blank" rel="noreferrer"> 
 <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="NodeJS" width="40" height="40" />
 </a>
+ <a href ="https://numpy.org/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" />
+</a>
+ <a href ="https://pandas.pydata.org/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+</a>
+ <a href ="https://www.tensorflow.org/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+</a>
+ <a href ="https://flask.palletsprojects.com/en/2.3.x/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+</a>
 </p>
 
 <p align="left">
