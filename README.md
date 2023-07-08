@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m currently working on **SOCriptia**
 
-- 🧠 I’m currently learning **React & Node.JS**
+- 🧠 I’m currently learning **ML && NLP**
 
 - 🤝 I’m looking to collaborate on **with other developers to build fun stuff**
 
