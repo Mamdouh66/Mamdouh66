@@ -12,7 +12,7 @@
 
 - 🧠 I’m currently learning **ML && NLP**
 
-- 🤝 I’m looking to collaborate on **with other developers to build fun stuff**
+- 🤝 I’m looking to collaborate **with other developers to build fun stuff**
 
 - 📫 How to reach me **MamdouhKhalaf76@gmail.com**
 
