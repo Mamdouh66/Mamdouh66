@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m currently working on **NeuralBrain**
 
-- 🧠 I’m currently learning **ML && NLP**
+- 🧠 I’m currently learning **ML && Backend**
 
 - 🤝 I’m looking to collaborate **with other developers to build fun stuff**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MamdouhCS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mamdouh" height="30" width="40" /></a>
+<a href="https://twitter.com/MamdouhAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mamdouh" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/mamdouh-aldhafeeri-631a93241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mamdouh" height="30" width="40" /></a>
  </p>
 
