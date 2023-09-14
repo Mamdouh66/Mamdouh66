@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAamdouh66&label=Profile%20views&color=0e75b6&style=flat" alt="Mamdouh" /> </p>
 
 
-- 👨‍💻 I’m currently working on **NeuralBrain**
+- 👨‍💻 I’m currently working on **QuickBreif**
 
 - 🧠 I’m currently learning **ML && Backend**
 
@@ -66,8 +66,8 @@
  <a href ="https://www.tensorflow.org/"  target="_blank" rel="noreferrer"> 
 <img src ="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
 </a>
- <a href ="https://flask.palletsprojects.com/en/2.3.x/"  target="_blank" rel="noreferrer"> 
-<img src ="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+ <a href ="https://fastapi.tiangolo.com/"  target="_blank" rel="noreferrer"> 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
 </a>
 </p>
 
